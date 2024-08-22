@@ -30,29 +30,12 @@ LeetCode-Solutions/
 - **Medium/**: Solutions to medium-level problems.
 - **Hard/**: Solutions to hard-level problems.
 
-Each solution includes a brief description of the problem, the approach used, and the time/space complexity analysis.
-
-## 🚀 Getting Started
-
-To run the solutions locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/LeetCode-Solutions.git
-   ```
-2. Navigate to the specific problem's directory.
-3. Compile and run the Java file using your preferred IDE or the command line:
-   ```bash
-   javac Problem1.java
-   java Problem1
-   ```
-
 ## 📈 Progress
 
 | Difficulty | Problems Solved |
 |------------|----------------|
-| Easy       | 0              |
-| Medium     | 0              |
+| Easy       | 24              |
+| Medium     | 1              |
 | Hard       | 0              |
 
 ## 📝 Notes
