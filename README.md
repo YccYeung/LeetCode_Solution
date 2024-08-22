@@ -3,7 +3,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange) ![Language](https://img.shields.io/badge/Language-Java-blue) 
 ![Language](https://img.shields.io/badge/Language-Python-green)
-![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-1%25-brightgreen)
 
 This repository contains my solutions to various LeetCode problems. The solutions are organized by problem type and difficulty level. The goal of this repository is to practice problem-solving skills and to serve as a reference for others.
 
