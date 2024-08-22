@@ -40,22 +40,5 @@ LeetCode-Solutions/
 
 ## 📝 Notes
 
-- The solutions are primarily written in **Java**.
-- Each solution includes comments explaining the logic and complexity.
+- The solutions are primarily written in **Java** and **Python**.
 - I update this repository regularly as I solve new problems.
-
-## 🤝 Contributing
-
-If you find any issues or have a better solution, feel free to open a pull request or submit an issue. Contributions are welcome!
-
-## 📧 Contact
-
-For any inquiries or discussions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
-
-## ⭐ Acknowledgements
-
-Thanks to LeetCode for providing an excellent platform to practice and improve problem-solving skills.
-
----
-
-Happy Coding! 🎉
