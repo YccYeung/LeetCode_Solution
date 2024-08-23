@@ -34,7 +34,7 @@ LeetCode-Solutions/
 
 | Difficulty | Problems Solved |
 |------------|----------------|
-| Easy       | 25              |
+| Easy       | 26              |
 | Medium     | 1              |
 | Hard       | 0              |
 
